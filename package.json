@@ -1,0 +1,22 @@
+{
+  "name": "lit-element-jest-serializer",
+  "version": "1.0.0",
+  "description": "Jest template serializer for lit-element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcisbee/lit-element-jest-serializer.git"
+  },
+  "author": "Marcis <marcisbergmanis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marcisbee/lit-element-jest-serializer/issues"
+  },
+  "homepage": "https://github.com/Marcisbee/lit-element-jest-serializer#readme",
+  "dependencies": {
+    "lit-element": "*"
+  }
+}
